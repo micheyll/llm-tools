@@ -17,3 +17,9 @@ you get nonsensical garbage from it that the character uses in a weird way. In m
 
 ## Why hepburn.epub?
 I love Audrey Hepburn, and I'll make a believable AI character card of her, or die trying.
+
+## Usage
+```
+pip install requirements.txt
+python parse_epub.py <path/to/source.epub> <path/to/output.txt>
+```
