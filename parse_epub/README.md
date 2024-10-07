@@ -20,6 +20,8 @@ I love Audrey Hepburn, and I'll make a believable AI character card of her, or d
 
 ## Usage
 ```
+python -m venv /path/to/venv
+source /path/to/venv/bin/activate (activate.fish on fish)
 pip install requirements.txt
 python parse_epub.py <path/to/source.epub> <path/to/output.txt>
 ```
